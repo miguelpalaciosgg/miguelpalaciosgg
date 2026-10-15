@@ -10,14 +10,11 @@ Ingeniero informático (UPV) con 4 años en consultoría y administración de si
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| [**TubeFarmer**](https://github.com/miguelpalaciosgg/tubefarmer-showcase) | Plataforma que guioniza, ilustra, locuta, monta, sube y programa vídeos en 6 canales de YouTube sin intervención humana. Infraestructura < 5 $/mes. | Python · Next.js · PostgreSQL · Google Cloud Run · LLM · generación de imagen y voz |
+| [**TubeFarmer**](https://github.com/miguelpalaciosgg/tubefarmer-showcase) | Plataforma que guioniza, ilustra, locuta, monta, sube y programa vídeos en 6 canales sin intervención humana. Infraestructura < 5 $/mes. | Python · Next.js · PostgreSQL · Google Cloud Run · LLM · generación de imagen y voz |
 | [**DiveDesk**](https://github.com/miguelpalaciosgg/divedesk-showcase) | ERP para centros de buceo (salidas, reservas online con pago, clientes, cobros) en versión SaaS multiempresa. | Vue 3 · Node.js/Express · PostgreSQL · Redsys · Cloud Run |
-| [**Chatbot IA para centro de buceo**](https://github.com/miguelpalaciosgg/server__revo) | Asistente conversacional multiidioma con captación de leads, integrable en cualquier web. | Node.js · LLM · Google Cloud · Firebase |
-| [**Bot cripto (paper trading)**](https://github.com/miguelpalaciosgg/cripto-paper-bot) | Simulador de seguimiento de tendencia sobre velas diarias de Binance, con backtest, grid de parámetros e informe por correo. Sin dinero real. | Python · SQLite · API pública Binance |
-| [**Bot de value betting**](https://github.com/miguelpalaciosgg/value-betting-bot) | Compara cuotas de ~15 casas contra Pinnacle y simula apuestas con valor esperado positivo. Sin dinero real. | Python · SQLite · The Odds API |
-| [**Bravo Azul**](https://github.com/miguelpalaciosgg/BravoAzul) | Plataforma de estudio para opositores (tests, estadísticas, entrenador). | Vue · JavaScript |
+| **Asistente conversacional con IA** | Agente sobre la API oficial de WhatsApp con memoria por cliente: resuelve dudas, cualifica el interés y lleva a la reserva online. | Python · LLM · WhatsApp API · Google Cloud · Serverless |
 
-El código de TubeFarmer y DiveDesk es privado (incluye lógica de negocio y credenciales de canales reales); los repos enlazados documentan arquitectura, decisiones técnicas y resultados. Lo enseño en una llamada sin problema.
+El código de estos sistemas es privado (incluye lógica de negocio y credenciales reales); los repos enlazados documentan arquitectura, decisiones técnicas y resultados. Lo enseño en una llamada sin problema.
 
 ## Stack
 
