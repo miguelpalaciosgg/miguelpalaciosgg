@@ -1,30 +1,31 @@
-# Hola, soy Miguel 👋
+# Hola, soy Miguel
 
-**Ingeniero de software · Backend, IA y automatización** · Valencia, España
+**Ingeniero de software · Backend, IA y automatización** · Valencia
 
-Ingeniero informático (UPV) con 4 años en consultoría y administración de sistemas y una obsesión: que las cosas funcionen solas. Fuera del horario de oficina diseño, construyo y opero en producción sistemas con IA generativa que crean contenido, atienden clientes y cobran sin intervención humana.
+Ingeniero informático (UPV) con 4 años en consultoría y administración de sistemas. Fuera de la oficina construyo productos completos y los mantengo en producción: cobran, facturan, publican y se revisan con la menor intervención posible.
 
-🌐 [miguelpalaciosgg.github.io](https://miguelpalaciosgg.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/miguel-p-773307185/) · 📄 [CV (ES)](https://miguelpalaciosgg.github.io/cv/CV_Miguel_Palacios_ES.pdf) · [CV (EN)](https://miguelpalaciosgg.github.io/cv/CV_Miguel_Palacios_EN.pdf)
+[Portfolio](https://miguelpalaciosgg.github.io) · [CV (ES)](https://miguelpalaciosgg.github.io/cv/) · [CV (EN)](https://miguelpalaciosgg.github.io/cv/en.html) · [LinkedIn](https://www.linkedin.com/in/miguel-p-773307185/)
 
-## Proyectos destacados
+## Lo que he construido (y puedes probar)
 
-| Proyecto | Qué es | Stack |
+| Proyecto | Qué es | Demo |
 |---|---|---|
-| [**TubeFarmer**](https://github.com/miguelpalaciosgg/tubefarmer-showcase) | Plataforma que guioniza, ilustra, locuta, monta, sube y programa vídeos en 6 canales sin intervención humana. Infraestructura < 5 $/mes. | Python · Next.js · PostgreSQL · Google Cloud Run · LLM · generación de imagen y voz |
-| [**DiveDesk**](https://github.com/miguelpalaciosgg/divedesk-showcase) | ERP para centros de buceo (salidas, reservas online con pago, clientes, cobros) en versión SaaS multiempresa. | Vue 3 · Node.js/Express · PostgreSQL · Redsys · Cloud Run |
-| **Asistente conversacional con IA** | Agente sobre la API oficial de WhatsApp con memoria por cliente: resuelve dudas, cualifica el interés y lleva a la reserva online. | Python · LLM · WhatsApp API · Google Cloud · Serverless |
+| **NixDays** | Reservas y gestión para centros de buceo y náutica. En producción desde octubre de 2026: cobro real por Redsys y Bizum, facturas Verifactu, cuotas con Stripe y 200 pruebas automáticas. | [Reserva y mira la agenda](https://miguelpalaciosgg.github.io/nixdays-demo/) · [repo](https://github.com/miguelpalaciosgg/nixdays-demo) |
+| **Fábrica de vídeo** | Canales de vídeo que se escriben, se locutan, se dibujan por código (Remotion) y se publican solos cada día, a 0 € por vídeo. | — |
+| **Oficina de agentes** | Cómo trabajo con agentes de IA sin perder el control: niveles de decisión, revisores de seguridad, UX, UI y código, y aprobación humana de lo que sale fuera. | [Simulador](https://miguelpalaciosgg.github.io/oficina-agentes/) · [repo](https://github.com/miguelpalaciosgg/oficina-agentes) |
+| **Asistente de reservas con IA** | Chatbot multilingüe para un centro de buceo (v1 web con Gemini y Firestore) y el rediseño con catálogo en vivo y paso a persona. | [Boceto](https://miguelpalaciosgg.github.io/asistente-reservas-ia/) · [repo](https://github.com/miguelpalaciosgg/asistente-reservas-ia) |
 
-El código de estos sistemas es privado (incluye lógica de negocio y credenciales reales); los repos enlazados documentan arquitectura, decisiones técnicas y resultados. Lo enseño en una llamada sin problema.
+El código de los productos es privado porque tiene datos de clientes y credenciales reales. Estos repos son versiones limpias que se pueden ejecutar.
 
 ## Stack
 
-`Python` `TypeScript` `Node.js` `Next.js` `Vue` `SQL / PL-SQL` `PostgreSQL` `Google Cloud` `Serverless` `Docker` `Git` `Linux`
-`LLM` `Agentes y pipelines` `RAG` `Generación de imagen y voz` `Integración de APIs` `IBM Maximo`
+`Python` `TypeScript` `Node.js` `Vue 3` `SQL` `PostgreSQL` `Docker` `Linux` `Google Cloud` `Remotion` `Playwright`
+`LLM y agentes` `Claude Code` `Redsys` `Stripe` `Verifactu`
 
 ## Cómo trabajo
 
-- Mido antes de decidir: cada proyecto tiene backtest, simulación o métrica de coste real.
-- Escalar a cero por defecto: Cloud Run Jobs, scheduler y colas en vez de servidores encendidos.
-- Secretos fuera del código, siempre. `.env` en `.gitignore` y protección de push activada.
+- Pruebas antes de cada cambio: en NixDays, pruebas de la API, una jornada simulada con reservas simultáneas y Playwright.
+- Coste por unidad medido: la fábrica de vídeo funciona con cupos gratuitos y procesos que escalan a cero.
+- Secretos fuera del código y revisión de seguridad antes de publicar nada.
 
-📫 8miguelpalacios@gmail.com
+8miguelpalacios@gmail.com
