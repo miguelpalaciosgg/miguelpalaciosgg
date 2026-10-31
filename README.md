@@ -10,7 +10,7 @@ Computer engineer (UPV) with 4 years in consulting and systems administration. O
 
 | Project | What it is | Demo |
 |---|---|---|
-| **Dive centre booking SaaS** | Booking and management SaaS for dive centres, built and run by me. In production since October 2026: real card and Bizum payments via Redsys, Verifactu e-invoicing, Stripe subscriptions and 200 automated tests. | [Book and see the schedule](https://miguelpalaciosgg.github.io/dive-booking-demo/) · [repo](https://github.com/miguelpalaciosgg/dive-booking-demo) |
+| **Dive centre booking SaaS** | Booking and management SaaS for dive centres, built and run by me. In production: real card and Bizum payments via Redsys, Verifactu e-invoicing, Stripe subscriptions and 200 automated tests. | [Book and see the schedule](https://miguelpalaciosgg.github.io/dive-booking-demo/) · [repo](https://github.com/miguelpalaciosgg/dive-booking-demo) |
 | **Video factory** | Video channels that write, voice, draw (in code, with Remotion) and publish themselves every day, at €0 per video. | — |
 | **Agent office** | How I work with AI agents without losing control: decision levels, security, UX, UI and code reviewers, and human approval for anything that leaves the building. | [Simulator](https://miguelpalaciosgg.github.io/oficina-agentes/) · [repo](https://github.com/miguelpalaciosgg/oficina-agentes) |
 | **AI booking assistant** | Multilingual chatbot for dive centres (web v1 with Gemini and Firestore) and its redesign with live catalogue and human handoff. | [Mock-up](https://miguelpalaciosgg.github.io/asistente-reservas-ia/) · [repo](https://github.com/miguelpalaciosgg/asistente-reservas-ia) |
