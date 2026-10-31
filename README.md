@@ -15,7 +15,7 @@ Computer engineer (UPV) with 4 years in consulting and systems administration. O
 | **Agent office** | How I work with AI agents without losing control: decision levels, security, UX, UI and code reviewers, and human approval for anything that leaves the building. | [Simulator](https://miguelpalaciosgg.github.io/oficina-agentes/) · [repo](https://github.com/miguelpalaciosgg/oficina-agentes) |
 | **AI booking assistant** | Multilingual chatbot for a dive centre (web v1 with Gemini and Firestore) and its redesign with live catalogue and human handoff. | [Mock-up](https://miguelpalaciosgg.github.io/asistente-reservas-ia/) · [repo](https://github.com/miguelpalaciosgg/asistente-reservas-ia) |
 
-The product code is private because it holds real customer data and credentials. These repos are clean versions you can run. The demos' interfaces are in Spanish, like their users.
+The real product code is private: it holds customer data and credentials. The *repo* links only contain each demo, written separately with made-up data. Demos are in English and Spanish.
 
 ## Stack
 
