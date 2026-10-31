@@ -14,6 +14,7 @@ Computer engineer (UPV) with 4 years in consulting and systems administration. O
 | **Video factory** | Video channels that write, voice, draw (in code, with Remotion) and publish themselves every day, at €0 per video. | — |
 | **Agent office** | How I work with AI agents without losing control: decision levels, security, UX, UI and code reviewers, and human approval for anything that leaves the building. | [Simulator](https://miguelpalaciosgg.github.io/oficina-agentes/) · [repo](https://github.com/miguelpalaciosgg/oficina-agentes) |
 | **AI booking assistant** | Multilingual chatbot for dive centres (web v1 with Gemini and Firestore) and its redesign with live catalogue and human handoff. | [Mock-up](https://miguelpalaciosgg.github.io/asistente-reservas-ia/) · [repo](https://github.com/miguelpalaciosgg/asistente-reservas-ia) |
+| **Dive terminal** 🤿 | Just for fun: a retro terminal scuba dive simulator. Follow the mouse down, watch your no-deco limit and gas, and don't rocket to the surface. Real decompression model (Bühlmann ZHL-16C with gradient factors). | [Play it](https://miguelpalaciosgg.github.io/dive-terminal/) · [repo](https://github.com/miguelpalaciosgg/dive-terminal) |
 
 The real product code is private: it holds customer data and credentials. The *repo* links only contain each demo, written separately with made-up data. Demos are in English and Spanish.
 
