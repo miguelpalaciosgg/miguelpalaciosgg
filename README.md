@@ -4,7 +4,7 @@
 
 Computer engineer (UPV) with 4 years in consulting and systems administration. On my own time I build complete products and run them in production: they take payments, issue invoices, publish and review themselves with as little human input as possible.
 
-[Portfolio](https://miguelpalaciosgg.github.io) · [CV (EN)](https://miguelpalaciosgg.github.io/cv/en.html) · [CV (ES)](https://miguelpalaciosgg.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/miguel-p-773307185/)
+[Portfolio](https://miguelpalaciosgg.github.io) · [CV (EN)](https://miguelpalaciosgg.github.io/cv/en.html) · [CV (ES)](https://miguelpalaciosgg.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/miguelpalaciosgg/)
 
 ## What I've built (and you can try)
 
