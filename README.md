@@ -2,7 +2,7 @@
 
 **Software engineer · Backend, AI and automation** · Valencia, Spain
 
-Computer engineer (UPV) with 4 years in consulting and systems administration. On my own time I build complete products and run them in production: they take payments, issue invoices, publish and review themselves with as little human input as possible.
+Software engineer (UPV) with 5 years building software in production: consulting and systems administration for large accounts, and since 2017 the full system of a real business. On my own time I build complete products and run them in production: they take payments, issue invoices, publish and review themselves with as little human input as possible.
 
 [Portfolio](https://miguelpalaciosgg.github.io) · [CV (EN)](https://miguelpalaciosgg.github.io/cv/en.html) · [CV (ES)](https://miguelpalaciosgg.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/miguelpalaciosgg/)
 
